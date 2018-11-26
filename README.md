@@ -21,4 +21,4 @@ npm run build --report
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 # vuex-
 
-![Alt](https://avatar.csdn.net/7/7/B/1_ralf_hx163com.jpg)
+![Alt](https://github.com/huangxinl/vuex-/blob/master/src/resource/外卖01_商品页.jpg=200*150)
