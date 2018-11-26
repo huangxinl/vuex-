@@ -20,4 +20,4 @@ npm run build --report
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 # vuex-
-![baidu](https://github.com/huangxinl/vuex-/blob/master/src/resource/外卖01_商品页.jpg "商品页")
+![baidu](https://github.com/huangxinl/vuex-/blob/master/src/resource/外卖01_商品页.jpg=200*300
