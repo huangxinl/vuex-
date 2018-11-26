@@ -22,3 +22,5 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 # vuex-
 
 ![Alt](https://github.com/huangxinl/vuex-/blob/master/src/resource/外卖01_商品页.jpg)
+![Alt](https://github.com/huangxinl/vuex-/blob/master/src/resource/外卖05_评价页.jpg =200x150)
+![Alt](https://github.com/huangxinl/vuex-/blob/master/src/resource/%E5%A4%96%E5%8D%9606_%E5%95%86%E5%AE%B6%E9%A1%B5.jpg)
